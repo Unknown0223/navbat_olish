@@ -1,0 +1,3 @@
+# Requirements for the barbershop queue Telegram bot
+
+aiogram==3.0.0
